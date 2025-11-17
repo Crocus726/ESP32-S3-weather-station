@@ -1,1 +1,2 @@
-# ESP32-weather-station
+# ESP32-S3-weather-station
+기온, 습도, 강우·강설 여부 등을 실시간으로 측정하고 기상청에서 제공한 데이터와 비교하는 기상 관측기
